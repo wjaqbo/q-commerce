@@ -13,6 +13,7 @@ export default function Home() {
           priority
         />
       </div>
+      <h1 role="heading">Welcome to next js</h1>
     </main>
   )
 }
